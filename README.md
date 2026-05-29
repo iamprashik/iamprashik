@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamprashik
-- 🌱 I’m currently learning programming and has started with Java...
+- 🌱 I like coding.
 - 📫 How to reach me Email: iamprashikkoirala@gmail.com...
 
 
