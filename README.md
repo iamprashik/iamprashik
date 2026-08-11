@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate focused on building practical software and learning how systems work under the hood.
 
-I enjoy developing applications with **Java, Python, JavaScript, and SQL**, with interests in backend development, distributed systems, cybersecurity, and software engineering.
+I enjoy developing applications with **Java, Python, JavaScript, and SQL**, with interests in frontend development, distributed systems, cybersecurity, and software engineering.
 
 ---
 
@@ -64,20 +64,14 @@ A responsive calculator inspired by the iOS calculator interface.
 
 ## 🌱 Currently Building & Learning
 
+* 🎨 Frontend Development
+* ⚛️ Modern JavaScript & UI Development
 * ☕ Java & Data Structures
 * 🧠 Algorithms & Problem Solving
-* 🌐 Backend Development
 * 🔐 Cybersecurity & Cryptography
 * 🗄️ Databases & SQL
 * ☁️ Cloud & Distributed Systems
 
----
-
-## 📊 GitHub Stats
-
-![Prashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamprashik\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprashik\&layout=compact\&hide_border=true)
 
 ---
 
