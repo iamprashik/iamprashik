@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prashik Koirala
 
-### 💻 Software Developer | Computer Science Graduate
+### 💻 Web Developer | Computer Science Graduate
 
 I'm a Computer Science graduate focused on building practical software and learning how systems work under the hood.
 
