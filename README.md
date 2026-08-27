@@ -30,6 +30,14 @@ I work with **Java, Python, JavaScript, and SQL**, with a focus on distributed s
 
 ## 🚀 Featured Projects
 
+### 🎵 [Musicozy — Music Player](https://github.com/iamprashik/Musicozy)
+
+A responsive Spotify-inspired music player with real audio playback, search, persistent likes, custom playlists, cover uploads, drag-and-drop reordering, keyboard controls, and responsive layouts.
+
+**Tech:** HTML • CSS • JavaScript • localStorage • IndexedDB
+
+[View Live Demo](https://iamprashik.github.io/Musicozy/)
+
 ### 🌐 [Distributed File Retrieval System](https://github.com/iamprashik/distributed-file-retrieval)
 
 A distributed system that discovers, retrieves, and reconstructs file chunks from multiple servers using SHA-256 content hashes.
