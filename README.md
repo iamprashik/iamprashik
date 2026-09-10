@@ -80,7 +80,7 @@ A distributed system that discovers, retrieves, and reconstructs file chunks fro
 
 - JavaScript fundamentals and frontend development
 - Responsive layouts, accessibility, and interaction design
-- Animation and micro-interactions with GSAP
+- Problem-solving through daily coding practice
 
 ---
 
