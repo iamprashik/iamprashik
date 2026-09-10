@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Prashik Koirala
 
-### 💻 Software Developer | Python, JavaScript & Distributed Systems
+### 💻 Frontend Developer · Toronto, Ontario
 
-I'm a Computer Science graduate who enjoys building practical software and understanding how systems work under the hood.
+I'm a Computer Science graduate from Algoma University. I build web experiences that feel good to use — with curiosity, care, and an eye for the details.
 
-I work with **Java, Python, JavaScript, and SQL**, with a focus on distributed systems, cybersecurity, and modern web development. I especially enjoy turning technical concepts into working, easy-to-understand projects.
+My focus is **HTML, CSS, and JavaScript**, supported by experience with **Java, Python, C#, and MySQL**. I enjoy learning by building, from music players and responsive interfaces to university projects in simulations and networking.
+
+🌐 **[Explore my portfolio](https://iamprashik.github.io/)** — selected projects, skills, and experience.
 
 ---
 
@@ -12,12 +14,12 @@ I work with **Java, Python, JavaScript, and SQL**, with a focus on distributed s
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 
 **Tools & Technologies**
 
@@ -38,24 +40,6 @@ A responsive Spotify-inspired music player with real audio playback, search, per
 
 [View Live Demo](https://iamprashik.github.io/Musicozy/)
 
-### 🌐 [Distributed File Retrieval System](https://github.com/iamprashik/distributed-file-retrieval)
-
-A distributed system that discovers, retrieves, and reconstructs file chunks from multiple servers using SHA-256 content hashes.
-
-**Tech:** Python • TCP Sockets • Distributed Systems • SHA-256
-
-### 🔐 [End-to-End Encrypted Chat](https://github.com/iamprashik/e2ee-chat)
-
-A client-server messaging application that uses RSA-2048 for secure key exchange and AES-256 for encrypted communication.
-
-**Tech:** Python • Cryptography • Networking • Threading
-
-### 🐺 [Wolf-Sheep Simulation](https://github.com/iamprashik/wolf_sheep_simulation)
-
-An agent-based ecosystem simulation that extends the classic predator-prey model with Farmer and Dog agents.
-
-**Tech:** Python • Mesa • Solara • Agent-Based Modeling
-
 ### 🧮 [iOS-Inspired Calculator](https://github.com/iamprashik/ios-inspired-calculator)
 
 A responsive calculator with keyboard support, operator precedence, error handling, and an iOS-inspired interface.
@@ -64,17 +48,45 @@ A responsive calculator with keyboard support, operator precedence, error handli
 
 [View Live Demo](https://iamprashik.github.io/ios-inspired-calculator/)
 
+### 🛒 [Amazon UI Clone](https://github.com/iamprashik/amazon-ui-clone)
+
+A desktop-focused recreation of Amazon's homepage, built with HTML and CSS to practice navigation, reusable product cards, Flexbox, and consistent spacing.
+
+**Tech:** HTML • CSS • Flexbox
+
+[View Live Demo](https://iamprashik.github.io/amazon-ui-clone/)
+
+### 🐺 [Wolf-Sheep Simulation](https://github.com/iamprashik/wolf_sheep_simulation)
+
+An agent-based ecosystem simulation that extends the classic predator-prey model with Farmer and Dog agents.
+
+**Tech:** Python • Mesa • Solara • Agent-Based Modeling
+
+### 🔐 [End-to-End Encrypted Chat](https://github.com/iamprashik/e2ee-chat)
+
+An educational messaging project using RSA key exchange and AES message encryption, with a relay server that forwards ciphertext between clients.
+
+**Tech:** Python • Cryptography • Networking • Threading
+
+### 🌐 [Distributed File Retrieval System](https://github.com/iamprashik/distributed-file-retrieval)
+
+A distributed system that discovers, retrieves, and reconstructs file chunks from multiple servers using SHA-256 content hashes.
+
+**Tech:** Python • TCP Sockets • Distributed Systems • SHA-256
+
 ---
 
 ## 🌱 Currently Building & Learning
 
-- Modern JavaScript and frontend development
-- Cybersecurity and applied cryptography
-- Cloud computing and distributed systems
+- JavaScript fundamentals and frontend development
+- Responsive layouts, accessibility, and interaction design
+- Animation and micro-interactions with GSAP
 
 ---
 
 ## 🤝 Let's Connect
+
+🌐 **[Portfolio](https://iamprashik.github.io/)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashik%20Koirala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashik-koirala-b6a64b3b0/)
 
@@ -82,4 +94,4 @@ A responsive calculator with keyboard support, operator precedence, error handli
 
 ---
 
-### 💡 Build. Learn. Improve. Repeat.
+### 💡 Learning by building, one project at a time.
